@@ -72,6 +72,14 @@ I'm a passionate **Full Stack Developer** from Lanús, Argentina 🇦🇷. I spe
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MateoDumas&theme=tokyonight" alt="Profile Details" />
 </div>
 
+<br />
+
+### 🐍 My Contribution Graph
+
+<div align="center">
+  <img src="https://github.com/MateoDumas/MateoDumas/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 ---
 
 ### 🚀 Featured Projects
