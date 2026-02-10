@@ -53,10 +53,10 @@ I'm a passionate **Full Stack Developer** from Lanús, Argentina 🇦🇷. I spe
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=MateoDumas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="MateoDumas's Stats" height="180"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MateoDumas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="MateoDumas's Stats" height="180"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoDumas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" height="180"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MateoDumas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" height="180"/>
   </a>
 </div>
 <div align="center">
@@ -65,12 +65,11 @@ I'm a passionate **Full Stack Developer** from Lanús, Argentina 🇦🇷. I spe
 
 <br />
 
-### 🏆 Trophies
+### 🏆 Achievements
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MateoDumas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MateoDumas&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MateoDumas&theme=tokyonight" alt="Profile Details" />
 </div>
 
 ---
